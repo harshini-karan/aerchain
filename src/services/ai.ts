@@ -1,7 +1,7 @@
 import type { LLMMessage } from '@/types/types';
 
 const APP_ID = import.meta.env.VITE_APP_ID;
-const LLM_API_URL = 'https://api-integrations.appmedo.com/app-7zar4lzgunsx/api-rLob8RdzAOl9/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse';
+const LLM_API_URL = 'add the url';
 
 interface StreamChunk {
   candidates?: Array<{
