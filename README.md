@@ -34,7 +34,7 @@ A modern, intelligent web application for managing Request for Proposals (RFPs) 
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd app-7zar4lzgunsx
+cd 7zar4lzgunsx
 ```
 
 2. **Install dependencies**
