@@ -1,4 +1,5 @@
-# Welcome to Your Miaoda Project
+# Aerchain – AI-Powered RFP Management System
+
 Miaoda Application Link URL
     URL:https://app-7zar4lzgunsx.appmedo.com
 
@@ -34,7 +35,7 @@ A modern, intelligent web application for managing Request for Proposals (RFPs) 
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd 7zar4lzgunsx
+cd aerchain
 ```
 
 2. **Install dependencies**
